@@ -14,6 +14,7 @@ export const blueTheme = {
 export const brownTheme = {
   body: "#FFFEFD",
   text: "#5D2A42",
+
   highlight: "#FFF9EC",
   dark: "#00072D",
   secondaryText: "#8D697A",
