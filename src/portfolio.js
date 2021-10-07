@@ -81,7 +81,7 @@ const skills = {
       skills: [
         "⚡ Building resposive website front end using Webpack and Laravel",
         "✨ Developing mobile apps using Flutter and android apps using Native Android Kotlin",
-        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push.",
+        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push",
       ],
       softwareSkills: [
         {
@@ -127,7 +127,8 @@ const skills = {
       skills: [
         "⚡ Building resposive website front end using Webpack and Laravel",
         "✨ Developing mobile apps using Flutter and android apps using Native Android Kotlin",
-        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push.",
+        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push",
+        "👓 Using good cases and practice for testing code",
       ],
       softwareSkills: [
         {
@@ -144,15 +145,22 @@ const skills = {
             color: "#336791",
           },
         },
+        {
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
+          style: {
+            color: "#6762a6",
+          },
+        },
       ],
     },
     {
-      title: "Data Science & AI",
+      title: "AI & Data Science",
       fileName: "DataScienceImg",
       skills: [
-        "📜 Make a simple rock, paper, scissors.",
-        "🤖 Build Discord Bot for Community and Teaching Assistant.",
-        "🎮 AI for Game Development, decision making or route path.",
+        "📜 Make a simple rock, paper, scissors",
+        "🤖 Build Discord Bot for Community and Teaching Assistant",
+        "🎮 AI for Game Development, decision making or route path",
       ],
       softwareSkills: [
         {
@@ -171,13 +179,6 @@ const skills = {
           },
         },
         {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
@@ -185,104 +186,54 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "Discord API",
+          fontAwesomeClassname: "simple-icons:discord",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
       ],
     },
-    // {
-    // {
-    //   title: "Cloud Infra-Architecture",
-    //   fileName: "CloudInfraImg",
-    //   skills: [
-    //     "⚡ Experience working on multiple cloud platforms",
-    //     "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-    //     "⚡ Deploying deep learning models on cloud to use on mobile devices",
-    //     "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "GCP",
-    //       fontAwesomeClassname: "simple-icons:googlecloud",
-    //       style: {
-    //         color: "#4285F4",
-    //       },
-    //     },
-
-    //     {
-    //       skillName: "Azure",
-    //       fontAwesomeClassname: "simple-icons:microsoftazure",
-    //       style: {
-    //         color: "#0089D6",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Firebase",
-    //       fontAwesomeClassname: "simple-icons:firebase",
-    //       style: {
-    //         color: "#FFCA28",
-    //       },
-    //     },
-
-    //     {
-    //       skillName: "MongoDB",
-    //       fontAwesomeClassname: "simple-icons:mongodb",
-    //       style: {
-    //         color: "#47A248",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Docker",
-    //       fontAwesomeClassname: "simple-icons:docker",
-    //       style: {
-    //         color: "#1488C6",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Kubernetes",
-    //       fontAwesomeClassname: "simple-icons:kubernetes",
-    //       style: {
-    //         color: "#326CE5",
-    //       },
-    //     },
-    //   ],
-    // },
-    // {
-    //   title: "UI/UX Design",
-    //   fileName: "DesignImg",
-    //   skills: [
-    //     "⚡ Designing highly attractive user interface for mobile and web applications",
-    //     "⚡ Customizing logo designs and building logos from scratch",
-    //     "⚡ Creating the flow of application functionalities to optimize user experience",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Adobe XD",
-    //       fontAwesomeClassname: "simple-icons:adobexd",
-    //       style: {
-    //         color: "#FF2BC2",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Figma",
-    //       fontAwesomeClassname: "simple-icons:figma",
-    //       style: {
-    //         color: "#F24E1E",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Adobe Illustrator",
-    //       fontAwesomeClassname: "simple-icons:adobeillustrator",
-    //       style: {
-    //         color: "#FF7C00",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Inkscape",
-    //       fontAwesomeClassname: "simple-icons:inkscape",
-    //       style: {
-    //         color: "#000000",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Game Development",
+      fileName: "GamingImg",
+      skills: [
+        "🎴 Experience with Live2D for animate 2D Images",
+        "💈 Design game with story rich and exicing gameplay",
+        "🎮 Good at Playing Simulation, RPG, and FPS Game",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Unreal Engine",
+          fontAwesomeClassname: "simple-icons:unrealengine",
+          style: {
+            color: "black",
+          },
+        },
+        {
+          skillName: "C#",
+          fontAwesomeClassname: "logos:c-sharp",
+          style: {},
+        },
+        {
+          skillName: "C++",
+          fontAwesomeClassname: "logos:c-plusplus",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
   ],
 };
 
