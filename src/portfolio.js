@@ -12,7 +12,7 @@ const seo = {
   og: {
     title: "Ahmad Tuflihun Portfolio",
     type: "website",
-    url: "http://tuflihun.site/",
+    url: "http://leguna.github.io/",
   },
 };
 
@@ -20,23 +20,15 @@ const seo = {
 const greeting = {
   title: "Ahmad Tuflihun",
   logo_name: "AhmadTuflihun",
-  nickname: "leguna",
-  subTitle: "Developer that passionate at game dev and mobile app dev.",
+  nickname: "tuf-tuf / leguna",
+  subTitle:
+    "Developer that passionate at game dev and mobile app dev. Love Building AI Bot, but hate Data Cleaning.",
   resumeLink:
     "https://drive.google.com/file/d/1ilwOgmy7_1Cub0qOBgfI6k-NHC9A3XeI/view?usp=sharing",
   portfolio_repository: "https://github.com/Leguna/leguna.github.io/",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/Leguna",
@@ -62,12 +54,6 @@ const socialMediaLinks = [
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
-    name: "Twitter",
-    link: "https://twitter.com/tuflihunahmad",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
     name: "Facebook",
     link: "https://www.facebook.com/AhmadTuflihunBlaBla/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
@@ -79,6 +65,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagramaaaaaa
   },
+  {
+    name: "Stackoverflow",
+    link: "https://stackoverflow.com/users/8574540/leguna",
+    fontAwesomeIcon: "fa-stack-overflow", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagramaaaaaa
+  },
 ];
 
 const skills = {
@@ -87,23 +79,16 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building resposive website front end using Webpack and Laravel",
+        "✨ Developing mobile apps using Flutter and android apps using Native Android Kotlin",
+        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push.",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS",
-          fontAwesomeClassname: "fa-css",
-          style: {
-            color: "#1572B6",
+            color: "#fb503b",
           },
         },
         {
@@ -111,14 +96,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:sass",
           style: {
             color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
           },
         },
         {
@@ -144,47 +121,72 @@ const skills = {
         },
       ],
     },
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Back End Development",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Building resposive website front end using Webpack and Laravel",
+        "✨ Developing mobile apps using Flutter and android apps using Native Android Kotlin",
+        "📓 Clean code, Comments, Reuseable, Documentation, Commit, Push.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+      ],
+    },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "📜 Make a simple rock, paper, scissors.",
+        "🤖 Build Discord Bot for Community and Teaching Assistant.",
+        "🎮 AI for Game Development, decision making or route path.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos-pytorch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
     // {
     // {
     //   title: "Cloud Infra-Architecture",
@@ -203,13 +205,7 @@ const skills = {
     //         color: "#4285F4",
     //       },
     //     },
-    //     {
-    //       skillName: "AWS",
-    //       fontAwesomeClassname: "simple-icons:amazonaws",
-    //       style: {
-    //         color: "#FF9900",
-    //       },
-    //     },
+
     //     {
     //       skillName: "Azure",
     //       fontAwesomeClassname: "simple-icons:microsoftazure",
@@ -224,13 +220,7 @@ const skills = {
     //         color: "#FFCA28",
     //       },
     //     },
-    //     {
-    //       skillName: "PostgreSQL",
-    //       fontAwesomeClassname: "simple-icons:postgresql",
-    //       style: {
-    //         color: "#336791",
-    //       },
-    //     },
+
     //     {
     //       skillName: "MongoDB",
     //       fontAwesomeClassname: "simple-icons:mongodb",
@@ -630,27 +620,26 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "leguna.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Android and Game Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+      "Be a example in the front, Building spirit at the middle, and Encourage from behind.",
+    link: "https://medium.com/@ahmadtuflihunxd",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "Pontianak, West Borneo, Indonesia. - 78114",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/s7bAWwH3M3T5mBnh9",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+62 852 4665 4277",
   },
 };
 

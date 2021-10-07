@@ -11,8 +11,9 @@ export default function Projects() {
 
   useEffect(() => {
     getRepoData();
-  }, []);
+  }, [getRepoData]);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   function getRepoData() {
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
@@ -76,7 +77,7 @@ export default function Projects() {
       <Button
         text={"More Projects"}
         className="project-button"
-        href="https://github.com/ashutosh1919"
+        href="https://github.com/leguna"
         newTab={true}
       />
     </div>
