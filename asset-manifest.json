@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b88d5558.chunk.css",
-    "main.js": "/static/js/main.9718d64d.chunk.js",
-    "main.js.map": "/static/js/main.9718d64d.chunk.js.map",
+    "main.js": "/static/js/main.349e54fa.chunk.js",
+    "main.js.map": "/static/js/main.349e54fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.188f1e12.js",
     "runtime-main.js.map": "/static/js/runtime-main.188f1e12.js.map",
-    "static/js/2.b8d17369.chunk.js": "/static/js/2.b8d17369.chunk.js",
-    "static/js/2.b8d17369.chunk.js.map": "/static/js/2.b8d17369.chunk.js.map",
+    "static/js/2.b7aa1266.chunk.js": "/static/js/2.b7aa1266.chunk.js",
+    "static/js/2.b7aa1266.chunk.js.map": "/static/js/2.b7aa1266.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d140c6cf96ed33e6a0051bdf171292dd.js": "/precache-manifest.d140c6cf96ed33e6a0051bdf171292dd.js",
+    "precache-manifest.0128aa9cba0d0cda9a7e7efaf78e9264.js": "/precache-manifest.0128aa9cba0d0cda9a7e7efaf78e9264.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b88d5558.chunk.css.map": "/static/css/main.b88d5558.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -27,6 +27,7 @@
     "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/static/media/feelingProud.a73310ea.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.589bec7d.svg",
+    "static/media/gaming.jpg": "/static/media/gaming.61e98bae.jpg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.ba18401b.png",
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
@@ -38,6 +39,7 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/leguna.png": "/static/media/leguna.dee48e3b.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/monitor.jpg": "/static/media/monitor.45bdb297.jpg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
@@ -51,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.188f1e12.js",
-    "static/js/2.b8d17369.chunk.js",
+    "static/js/2.b7aa1266.chunk.js",
     "static/css/main.b88d5558.chunk.css",
-    "static/js/main.9718d64d.chunk.js"
+    "static/js/main.349e54fa.chunk.js"
   ]
 }

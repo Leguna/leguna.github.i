@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2570547ea080d79d1b4934dbe616c63b",
+    "revision": "0adbc415a277433dfaefdabe3ccfd440",
     "url": "/index.html"
   },
   {
-    "revision": "75e7e36677893f32cbde",
+    "revision": "2d2e70f5e49294901e92",
     "url": "/static/css/main.b88d5558.chunk.css"
   },
   {
-    "revision": "4e2f5112ea6ee1ed57cb",
-    "url": "/static/js/2.b8d17369.chunk.js"
+    "revision": "2a83c0fece7d2a06ac30",
+    "url": "/static/js/2.b7aa1266.chunk.js"
   },
   {
-    "revision": "75e7e36677893f32cbde",
-    "url": "/static/js/main.9718d64d.chunk.js"
+    "revision": "2d2e70f5e49294901e92",
+    "url": "/static/js/main.349e54fa.chunk.js"
   },
   {
     "revision": "50a87f85bbcafa998ed6",
@@ -168,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fullstack.589bec7d.svg"
   },
   {
+    "revision": "61e98bae9433c98d6584a8828e354f50",
+    "url": "/static/media/gaming.61e98bae.jpg"
+  },
+  {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
     "url": "/static/media/gcp_logo.ba18401b.png"
   },
@@ -210,6 +214,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "45bdb29778f1171c46bec4d0a2aced06",
+    "url": "/static/media/monitor.45bdb297.jpg"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
