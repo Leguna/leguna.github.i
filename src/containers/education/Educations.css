@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+.card-img {
+  margin: 32px;
+}
+
 @media (max-width: 1380px) {
   .educations-header {
     font-size: 35px;

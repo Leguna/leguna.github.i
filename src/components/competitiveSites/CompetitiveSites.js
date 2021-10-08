@@ -30,7 +30,9 @@ class CompetitiveSites extends React.Component {
                       data-icon={logo.iconifyClassname}
                       style={logo.style}
                       data-inline="false"
-                    ></span>
+                    >
+                      <img class="manImg" height="50em" src={logo.image}></img>
+                    </span>
                   </a>
                 </li>
               </OverlayTrigger>
