@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ead9076b6cb3483304641e73a78f9624",
+    "revision": "7cfae815289ef293cb9f38885c3dff0b",
     "url": "/index.html"
   },
   {
-    "revision": "4e19fd560d86ced1f74e",
-    "url": "/static/css/main.b88d5558.chunk.css"
+    "revision": "0842a5859b3f33af5cac",
+    "url": "/static/css/main.47b33ba3.chunk.css"
   },
   {
-    "revision": "bff10833efcf6e793491",
-    "url": "/static/js/2.db388c32.chunk.js"
+    "revision": "ba2d04f0816be7b4d88a",
+    "url": "/static/js/2.3bd9bc96.chunk.js"
   },
   {
-    "revision": "4e19fd560d86ced1f74e",
-    "url": "/static/js/main.e14fc3d6.chunk.js"
+    "revision": "0842a5859b3f33af5cac",
+    "url": "/static/js/main.8db6d79c.chunk.js"
   },
   {
     "revision": "50a87f85bbcafa998ed6",
@@ -192,6 +192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
   {
+    "revision": "a4078a1118bd06856f2d7ea6d387dedc",
+    "url": "/static/media/idekite.a4078a11.png"
+  },
+  {
     "revision": "c350d7996596e9909fe72c0938cc9ee5",
     "url": "/static/media/iiitk_logo.c350d799.png"
   },
@@ -200,8 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "2f1d42a0a1e6811c6e93ae12253a036b",
+    "url": "/static/media/iot.2f1d42a0.png"
+  },
+  {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/static/media/jsFramework.b05ae5b5.svg"
+  },
+  {
+    "revision": "184f2ffd89032120dd1958e30dd139dc",
+    "url": "/static/media/kotlinbadge.184f2ffd.png"
   },
   {
     "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
@@ -210,6 +222,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dee48e3b529381414b8f5a21ce3936c7",
     "url": "/static/media/leguna.dee48e3b.png"
+  },
+  {
+    "revision": "7a82b18f11b7fe66a2c2d100cf15d084",
+    "url": "/static/media/logopolnep.7a82b18f.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -262,5 +278,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
     "url": "/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  {
+    "revision": "727e637ad092fe45df506df0bd1f2d14",
+    "url": "/static/media/ultima.727e637a.png"
   }
 ]);

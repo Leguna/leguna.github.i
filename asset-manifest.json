@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b88d5558.chunk.css",
-    "main.js": "/static/js/main.e14fc3d6.chunk.js",
-    "main.js.map": "/static/js/main.e14fc3d6.chunk.js.map",
+    "main.css": "/static/css/main.47b33ba3.chunk.css",
+    "main.js": "/static/js/main.8db6d79c.chunk.js",
+    "main.js.map": "/static/js/main.8db6d79c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.188f1e12.js",
     "runtime-main.js.map": "/static/js/runtime-main.188f1e12.js.map",
-    "static/js/2.db388c32.chunk.js": "/static/js/2.db388c32.chunk.js",
-    "static/js/2.db388c32.chunk.js.map": "/static/js/2.db388c32.chunk.js.map",
+    "static/js/2.3bd9bc96.chunk.js": "/static/js/2.3bd9bc96.chunk.js",
+    "static/js/2.3bd9bc96.chunk.js.map": "/static/js/2.3bd9bc96.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.baaa5b0610ec4eb25dea92dd3e36ee8e.js": "/precache-manifest.baaa5b0610ec4eb25dea92dd3e36ee8e.js",
+    "precache-manifest.d1c44cdc2f7925d27c0bc0baadefefa8.js": "/precache-manifest.d1c44cdc2f7925d27c0bc0baadefefa8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b88d5558.chunk.css.map": "/static/css/main.b88d5558.chunk.css.map",
+    "static/css/main.47b33ba3.chunk.css.map": "/static/css/main.47b33ba3.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.a633be2f.svg",
@@ -33,11 +33,15 @@
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
+    "static/media/idekite.png": "/static/media/idekite.a4078a11.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.c350d799.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/iot.png": "/static/media/iot.2f1d42a0.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/kotlinbadge.png": "/static/media/kotlinbadge.184f2ffd.png",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/leguna.png": "/static/media/leguna.dee48e3b.png",
+    "static/media/logopolnep.png": "/static/media/logopolnep.7a82b18f.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/monitor.png": "/static/media/monitor.ab4ff509.png",
     "static/media/monitor.jpg": "/static/media/monitor.cfa47516.jpg",
@@ -50,12 +54,13 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
-    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/ultima.png": "/static/media/ultima.727e637a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.188f1e12.js",
-    "static/js/2.db388c32.chunk.js",
-    "static/css/main.b88d5558.chunk.css",
-    "static/js/main.e14fc3d6.chunk.js"
+    "static/js/2.3bd9bc96.chunk.js",
+    "static/css/main.47b33ba3.chunk.css",
+    "static/js/main.8db6d79c.chunk.js"
   ]
 }
