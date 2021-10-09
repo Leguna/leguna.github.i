@@ -1,5 +1,6 @@
 .education-main {
   width: 100%;
+  display: block;
 }
 
 .basic-education {
@@ -49,6 +50,7 @@
     font-size: 50px;
     margin-top: 80px;
   }
+
   .heading-sub-text {
     font-size: 25px;
   }
