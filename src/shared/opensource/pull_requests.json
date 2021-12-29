@@ -2,6 +2,48 @@
   "closed": 2,
   "data": [
     {
+      "id": "PR_kwDOGYB73M4ufvsd",
+      "title": "Create Post.class",
+      "url": "https://github.com/rezkyyustisio/Pemrograman-Berorientasi-Objek/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-11-14T12:05:59Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Pemrograman-Berorientasi-Objek",
+        "url": "https://github.com/rezkyyustisio/Pemrograman-Berorientasi-Objek",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/32031199?u=27c23fc95f568bf3adc08ced59a3b84d8aa0cf86&v=4",
+          "login": "rezkyyustisio",
+          "url": "https://github.com/rezkyyustisio"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGXzuwM4ufgE-",
+      "title": "Rapikan indentasi, gunakan formatter",
+      "url": "https://github.com/miftahuljna127/PBO/pull/1",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-11-14T03:15:25Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 16,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "PBO",
+        "url": "https://github.com/miftahuljna127/PBO",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/63044215?u=e7f2809ede08670c456f11e7d7e3a45e426d5427&v=4",
+          "login": "miftahuljna127",
+          "url": "https://github.com/miftahuljna127"
+        }
+      }
+    },
+    {
       "id": "MDExOlB1bGxSZXF1ZXN0Njc4NDkzMDM5",
       "title": "Merge pull request #1 from Leguna/master",
       "url": "https://github.com/Leguna/Kasnaran/pull/2",
@@ -270,6 +312,6 @@
     }
   ],
   "merged": 9,
-  "open": 0,
-  "totalCount": 11
+  "open": 2,
+  "totalCount": 13
 }
