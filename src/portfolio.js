@@ -349,6 +349,17 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Mobile Engineer - Flutter",
+          company: "PT. Sejutacita Anak Muda Indonesia",
+          company_url: "https://usedeall.com/",
+          logo_path: "deall.jpg",
+          duration: "February 2022 - June 2022",
+          location: "Remote - Work From Anywhere",
+          description:
+            "Develop and build mobile app for Sejutacita Apps and Usedeall Apps. Work on bug fixing and improving application performance. Write clean code and implementing BLoC Design Pattern.",
+          color: "#761ced",
+        },
+        {
           title: "Junior Android Developer",
           company: "CV. Idekite Indonesia",
           company_url: "https://idekite.id/",
