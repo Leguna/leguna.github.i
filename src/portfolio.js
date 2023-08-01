@@ -322,6 +322,15 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Unity Associate Developer",
+      subtitle: "- Unity C#",
+      logo_path: "unity-certified-associate-programmer.png",
+      certificate_link:
+        "https://www.credential.net/d77f0148-91ff-4b82-a43f-2aceb1f43580#gs.d9zf64",
+      alt_name: "Unity Certificate",
+      color_code: "#aaaaaa",
+    },
+    {
       title: "Associate Android Developer",
       subtitle: "- Kotlin",
       logo_path: "kotlinbadge.png",
@@ -354,15 +363,26 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Augmented Reality Engineer",
+          company: "PT. Ako Media Asia",
+          company_url: "https://numetagen.id/",
+          logo_path: "numetagen.png",
+          duration: "October 2022 - July 2023",
+          location: "Hybrid - West Jakarta, Indonesia",
+          description:
+            "Develop AR Application for Air Conditioning factory employee training. Develop AR Instagram Filter. Create AR Website using 8thWall and AFrame Web Framework.",
+          color: "#cf1380",
+        },
+        {
           title: "Mobile Engineer - Flutter",
           company: "PT. Sejutacita Anak Muda Indonesia",
           company_url: "https://usedeall.com/",
-          logo_path: "deall.jpg",
+          logo_path: "dealls.png",
           duration: "February 2022 - June 2022",
-          location: "Remote - Work From Anywhere",
+          location: "Remote -  South Jakarta, Indonesia.",
           description:
             "Develop and build mobile app for Sejutacita Apps and Usedeall Apps. Work on bug fixing and improving application performance. Write clean code and implementing BLoC Design Pattern.",
-          color: "#761ced",
+          color: "#6913d8",
         },
         {
           title: "Junior Android Developer",
@@ -370,7 +390,7 @@ const experience = {
           company_url: "https://idekite.id/",
           logo_path: "idekite.png",
           duration: "March 2021 - June 2021",
-          location: "Pontianak, West Borneo",
+          location: "On Site - Pontianak, West Borneo. Indonesia.",
           description:
             "I am working on Android Application for Inventory Management using Label Printer, QR Code, and Flutter Technology.",
           color: "#f68a22",
@@ -386,7 +406,7 @@ const experience = {
           company_url: "http://www.ultimasolusi.com",
           logo_path: "ultima.png",
           duration: "Dec 2020 - Jan 2021",
-          location: "Pontianak, Borneo",
+          location: "On Site - Pontianak, West Borneo. Indonesia.",
           description:
             "I have doing some Backend for Web Virtual Event using A-Frame Library and News Android App using Flutter.",
           color: "#6f2f9f",
@@ -439,48 +459,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-  ],
+  data: [],
 };
 
 // Contact Page
