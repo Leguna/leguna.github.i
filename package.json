@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "tuflihun-portfolio",
-  "homepage": "http://leguna.github.io/",
+  "homepage": ".",
   "version": "1.1.0",
   "scripts": {
     "build": "react-scripts build",
@@ -46,6 +46,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-react": "^7.26.1",
+    "dotenv": "^6.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
