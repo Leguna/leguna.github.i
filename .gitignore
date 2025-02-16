@@ -25,3 +25,5 @@ yarn-error.log*
 !/package-lock.json
 
 git_data_fetcher.js
+
+.idea
